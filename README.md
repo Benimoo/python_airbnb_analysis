@@ -34,5 +34,5 @@ Data is provided by [insideairbnb.com](http://insideairbnb.com/get-the-data).
 Data contains property listing with information on host name, host id, property type, price, review score, location and more in different neighbourhood of Amsterdam on the 6th December 2018.
 
 ## Results
-Results is provided as a **PDF report**
+Results is provided as an interactive storyboard.
 Access via [Tableau Public](https://public.tableau.com/views/AirBnBAmsterdamAnalysis/Story1?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link)
