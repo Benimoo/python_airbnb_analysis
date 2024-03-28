@@ -35,4 +35,4 @@ Data contains property listing with information on host name, host id, property 
 
 ## Results
 Results is provided as a **PDF report**
-Access via the "**Report**" folder.
+Access via [Tableau Public](https://public.tableau.com/views/AirBnBAmsterdamAnalysis/Story1?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link)
