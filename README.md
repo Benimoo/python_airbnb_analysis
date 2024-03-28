@@ -21,7 +21,7 @@ The objective of this project is to conduct a comprehensive analysis of the Airb
 
 * Where are the popular properties located?
 
-## Hypothesis:
+## Hypothesis(referred as idea in the analysis):
 
 * 1. The higher the accommodates, the higher the price.
 * 2. The higher the review scores rating, the higher the price.
@@ -36,3 +36,7 @@ Data contains property listing with information on host name, host id, property 
 ## Results
 Results is provided as an interactive storyboard.
 Access via [Tableau Public](https://public.tableau.com/views/AirBnBAmsterdamAnalysis/Story1?:language=de-DE&:sid=&:display_count=n&:origin=viz_share_link)
+
+**Note**
+Storyboard does not contain all conducted analysis but rather the main analysis to answer the key questions and hypothesis.
+The terms and language used on this project is easy to understand in order to inform non-data analyst or technical audiences.
