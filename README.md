@@ -4,7 +4,7 @@
 **Project** : Analysis of AirBnB listings in Netherlands
 
 ## Introduction
-The objective of this project is to conduct a comprehensive analysis of the Airbnb situation in Amsterdam, aiming to provide insights and actionable recommendations for tourist and AirBnB hosts.
+The objective of this project is to conduct a comprehensive analysis of the Airbnb situation in Amsterdam, aiming to provide information about different properties and neighbourhoods across Amsterdam in order to provide tourist and AirBnB host with information on their trip planing or listing management.
 
 ## Key Questions
 * Which neighbourhood is the cheapest to stay in?
